@@ -283,6 +283,7 @@ a{
     font-size: 15px;
     line-height: 1.6;
     max-width: 220px;
+    margin-left: auto;
 }
 
 .servicos-lista{
